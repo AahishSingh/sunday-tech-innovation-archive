@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/silverbullet-ai/sunday-tech-innovation-archive/main)
 ![Repo Size](https://img.shields.io/github/repo-size/silverbullet-ai/sunday-tech-innovation-archive)
-![License](https://img.shields.io/github/license/silverbullet-ai/sunday-tech-innovation-archive)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Stars](https://img.shields.io/github/stars/silverbullet-ai/sunday-tech-innovation-archive?style=social)
 ![Issues](https://img.shields.io/github/issues/silverbullet-ai/sunday-tech-innovation-archive)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
