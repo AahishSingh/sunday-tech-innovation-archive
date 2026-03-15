@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/github/license/silverbullet-ai/sunday-tech-innovation-archive)
 ![Stars](https://img.shields.io/github/stars/silverbullet-ai/sunday-tech-innovation-archive?style=social)
 ![Issues](https://img.shields.io/github/issues/silverbullet-ai/sunday-tech-innovation-archive)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
 A personal weekly archive documenting major and minor technological developments across artificial intelligence, engineering, science, computing, and the global tech industry.
 
