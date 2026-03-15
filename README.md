@@ -1,7 +1,10 @@
 # Sunday Tech Innovation Archive
 
-![Last Commit](https://img.shields.io/github/last-commit/silverbullet-ai/sunday-tech-innovation-archive)
+![Last Commit](https://img.shields.io/github/last-commit/silverbullet-ai/sunday-tech-innovation-archive/main)
 ![Repo Size](https://img.shields.io/github/repo-size/silverbullet-ai/sunday-tech-innovation-archive)
+![License](https://img.shields.io/github/license/silverbullet-ai/sunday-tech-innovation-archive)
+![Stars](https://img.shields.io/github/stars/silverbullet-ai/sunday-tech-innovation-archive?style=social)
+![Issues](https://img.shields.io/github/issues/silverbullet-ai/sunday-tech-innovation-archive)
 
 This repository is a personal weekly archive of major and minor technological innovations across AI, engineering, science, and computing.
 
@@ -16,5 +19,4 @@ Entries are logged every Sunday and contain **only headlines** — no explanatio
 - Maintain a public, time-indexed innovation log
 
 ## Structure
-Entries are organized by year → month → weekly date.
-
+Entries are organized by **year → month → weekly date**.
