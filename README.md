@@ -33,7 +33,7 @@ The goal is to maintain a **long-term, signal-focused historical log of technolo
 
 The archive is organized chronologically:
 
-
+```markdown
 Sunday Tech Innovation Archive/
 │
 ├── 2026/
@@ -45,7 +45,7 @@ Sunday Tech Innovation Archive/
 │ ├── 02-February/
 │ └── 03-March/
 
-
+```
 
 Each weekly entry contains structured sections such as:
 
@@ -64,12 +64,6 @@ Only relevant sections appear in each entry.
 ## Archive Navigation
 
 ### 2026
-
-- January  
-- February  
-- March  
-
-### 2025
 
 - January  
 - February  
