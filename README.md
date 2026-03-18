@@ -2,10 +2,10 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/silverbullet-ai/sunday-tech-innovation-archive/main)
 ![Repo Size](https://img.shields.io/github/repo-size/silverbullet-ai/sunday-tech-innovation-archive)
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![License](https://img.shields.io/github/license/silverbullet-ai/sunday-tech-innovation-archive)
 ![Stars](https://img.shields.io/github/stars/silverbullet-ai/sunday-tech-innovation-archive?style=social)
 ![Issues](https://img.shields.io/github/issues/silverbullet-ai/sunday-tech-innovation-archive)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 
 A personal weekly archive documenting major and minor technological developments across artificial intelligence, engineering, science, computing, and the global tech industry.
 
@@ -34,7 +34,8 @@ The goal is to maintain a **long-term, signal-focused historical log of technolo
 
 The archive is organized chronologically:
 
-```markdown
+
+```
 Sunday Tech Innovation Archive/
 │
 ├── 2026/
@@ -45,7 +46,7 @@ Sunday Tech Innovation Archive/
 │ │
 │ ├── 02-February/
 │ └── 03-March/
-
+│ └── ...
 ```
 
 Each weekly entry contains structured sections such as:
@@ -78,9 +79,9 @@ This repository is primarily maintained as a **personal archive**.
 
 Pull requests may be accepted for:
 
-- formatting corrections
-- duplicate headline removal
-- structural improvements
+- formatting corrections  
+- duplicate headline removal  
+- structural improvements  
 
 ---
 
