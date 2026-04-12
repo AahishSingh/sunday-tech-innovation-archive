@@ -1,0 +1,82 @@
+# Weekly Tech Innovation Update — 2026-04-12
+
+## Major Headlines
+
+* Sophisticated North Korea-linked operation steals ~$270M from Drift after 6+ months of social engineering
+* Anthropic launches Project Glasswing, uncovering thousands of critical software vulnerabilities using AI
+* OpenAI faces internal tensions over spending, governance, and IPO direction
+* Meta releases Muse Spark, its first major closed AI model from Superintelligence Labs
+* Intel joins Elon Musk’s Terafab AI chip manufacturing initiative
+
+## Artificial Intelligence
+
+* OpenAI introduces new pricing tiers, including $100/month ChatGPT Pro plan
+* OpenAI projects ads could generate ~$102B annually by 2030
+* OpenAI releases Child Safety Blueprint addressing AI-enabled exploitation risks
+* OpenAI launches Safety Fellowship for external AI safety research
+* Anthropic launches Claude Managed Agents for scalable AI agent deployment
+* Anthropic’s Mythos model achieves major breakthroughs in vulnerability detection
+* Anthropic restricts public release of Mythos due to misuse concerns
+* Meta releases Muse Spark model powering AI features across its ecosystem
+* Meta explores monetization and limited API access for Muse Spark
+* Google adds crisis-detection safeguards in Gemini with hotline integration
+* Google Gemini achieves ~90% accuracy in AI search summaries at scale
+* Netflix introduces VOID model for scene editing and object simulation
+* Z.ai releases GLM-5.1 model outperforming leading competitors on coding benchmarks
+* AI coding tools rapidly increase code generation, raising security concerns
+* AI adoption expands across Hollywood and India’s film industries
+* Rising phenomenon of “cognitive surrender” reduces skepticism toward AI outputs
+
+## Chips, Hardware & Infrastructure
+
+* Intel joins Terafab alongside SpaceX, Tesla, and xAI for next-gen chip manufacturing
+* Meta commits additional $21B to AI infrastructure via CoreWeave
+* CoreWeave signs multi-year infrastructure deal with Anthropic
+* AWS AI revenue reaches $15B annual run rate; internal chips generate $20B+
+* TikTok invests €1B in European data center expansion
+* Alibaba deploys large-scale AI data center with proprietary chips
+* TSMC advanced packaging demand grows rapidly amid AI boom
+* Samsung plans $4B chip packaging plant in Vietnam
+* Global infrastructure expansion constrained by energy and equipment shortages
+
+## Funding, M&A & Corporate Moves
+
+* Australian AI infrastructure startup Firmus raises $505M at $5.5B valuation
+* SiFive raises $400M ahead of planned IPO
+* KreditBee raises $280M Series E in India’s fintech sector
+* Hermeus raises $350M for hypersonic aircraft development
+* Multiple AI, robotics, and infrastructure startups secure major funding
+* Cisco reportedly in talks to acquire Astrix Security for up to $350M
+* Cohere and Aleph Alpha explore potential merger
+
+## Regulation, Security & Geopolitics
+
+* North Korea-linked cyber operation infiltrates crypto firm Drift via long-term deception
+* FBI reports $21B in cybercrime losses in 2025, up 26% YoY
+* US agencies warn of AI-driven cyber risks to critical infrastructure
+* Iran-linked cyberattacks target major tech platforms and infrastructure
+* EU fails to extend CSAM scanning legislation
+* Greece plans social media ban for children under 15 by 2027
+* Florida launches investigation into OpenAI over safety concerns
+* US regulators increase scrutiny on AI, data, and cybersecurity risks
+
+## Platforms, Software & Media
+
+* Samsung to discontinue Messages app in the US, pushing users to Google Messages
+* Netflix launches Playground gaming app for children
+* X rolls out automatic translation powered by Grok
+* YouTube introduces AI-generated avatar creation for Shorts
+* Spotify expands AI playlist features to podcasts
+* Google adds notebooks feature to Gemini for workflow organization
+* Apple explores external GPU support for AI workloads on Apple Silicon
+* Microsoft enforces Windows 11 updates using ML-based rollout system
+
+## Markets, Economy & Industry Trends
+
+* AI infrastructure and compute demand continue to surge globally
+* Venture capital heavily concentrated in AI and deep tech sectors
+* Software engineering job openings rise 30% in 2026
+* Layoffs continue alongside increased AI-driven automation
+* Public trust in AI declines, especially among younger demographics
+* Enterprises struggle to secure and validate AI-generated code
+* AI reshapes labor markets, productivity, and economic power structures
